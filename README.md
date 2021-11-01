@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I am a computer engineer student at [SBU](https://www.sbu.ac.ir/)
+I am a computer engineering student at [SBU](https://www.sbu.ac.ir/)
 
 ## Languages & Technologies
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkeshtkar&layout=compact"  /> </p>
